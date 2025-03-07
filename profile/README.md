@@ -2,7 +2,7 @@
 <h3 align="center"> TURISMO - SOLUCIONES IT - IMPORTACIÓN</h3>
 
 ## 🌍 Sobre Nosotros  
-Bienvenido al repositorio oficial de **Grupo Gampi**, una empresa innovadora especializada en:  
+Bienvenido al repositorio oficial de **Grupo Gampi**, una start-up innovadora especializada en:  
 ✅ **Desarrollo de software a medida**  
 ✅ **Soluciones IT personalizadas**  
 ✅ **Servicios de consultoría tecnológica**  
@@ -32,6 +32,6 @@ En **Grupo Gampi**, valoramos la innovación y el talento. Si eres un apasionado
 👤 **CEO & Founder:** Alessandro Gaminara  
 📧 Email: [alessandro.gaminara@grupogampi.com]  
 🌎 Web: [Grupo Gampi](https://grupogampi.com)  
-📸 Instagram: [@alessandrogaminara](https://instagram.com/grupogampi.com)  
+📸 Instagram: [@grupogampi](https://instagram.com/grupogampi.com)  
 
 🚀 **Grupo Gampi – Tecnología sin límites, innovación sin fronteras.**  
